@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+
+# Logs
+logs/*.log
+
+# Temporary
+data/temporary/
+
+# Cache
+data/cache/
+
+# Downloaded PDFs
+data/pdfs/downloaded/
+
+# Processed PDFs
+data/pdfs/processed/
+
+# Failed PDFs
+data/pdfs/failed/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
